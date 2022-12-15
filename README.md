@@ -20,6 +20,7 @@ options:
                         support
 
 ```
+Note that `-j` and `-g` are still glitchy.
 
 ## Credits
 
